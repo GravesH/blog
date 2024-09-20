@@ -1,0 +1,2 @@
+# blog
+Simple recording technique
